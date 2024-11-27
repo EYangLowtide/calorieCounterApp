@@ -1,0 +1,16 @@
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\bin\Debug\net8.0-windows\calorieCounterAppi.exe
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\bin\Debug\net8.0-windows\calorieCounterAppi.deps.json
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\bin\Debug\net8.0-windows\calorieCounterAppi.runtimeconfig.json
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\bin\Debug\net8.0-windows\calorieCounterAppi.dll
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\bin\Debug\net8.0-windows\calorieCounterAppi.pdb
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.Form1.resources
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.csproj.GenerateResource.cache
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.AssemblyInfoInputs.cache
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.AssemblyInfo.cs
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.csproj.CoreCompileInputs.cache
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.dll
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\refint\calorieCounterAppi.dll
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.pdb
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\calorieCounterAppi.genruntimeconfig.cache
+C:\Users\elgol\Documents\school work\objectOrientedDesign\calorieCounterapp\calorieCounterAppi\obj\Debug\net8.0-windows\ref\calorieCounterAppi.dll
